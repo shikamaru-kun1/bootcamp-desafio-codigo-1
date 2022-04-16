@@ -25,3 +25,25 @@
     - Semântica
 	
 	> ***nav***: esta *tag* é utilizada, geralmente, quando se pretende implementar menus de navegação na página.
+	>
+	> ***reset css***: serve para atribuir configurações padronizadas à página, para que qualquer navegador onde formos abrir a página interprete de maneira primária e obrigatória.
+	>
+	> ***box-sizing***: atributo css que permite limitar os elementos à borda da tag html à que os mesmos se destinam. O valor deste atributo é o ***border-box***.
+	>
+	
+    - Como declarar uma variável dentro do css?
+	>
+	> Para se declarar uma variável no css é necessário que primeiramente a coloquemos na raíz do documento, ou seja, declarando o elemento **":root{}"**.
+	>> Geralmente utilizamos para declarar atributos que possam ser reutilizáveis em vários elementos da página e em caso de futura alteração, só se precisará de efectuar a alteração directamente no ***root***, ou seja, cria uma maior optimização na construção da página, faz parte das boas práticas de desenvolvimento e auxilia muito na actualização do css das páginas.
+	>
+	> A declaração é feita da seguinte maneira:
+
+	 - **--variavel:**
+
+	>
+	> A atribuição do valor da variável, dentro de um elemento css é feita da seguinte maneira:
+
+	 - **" body { background: var(--nome_da_variavel); } "**
+
+	
+	
