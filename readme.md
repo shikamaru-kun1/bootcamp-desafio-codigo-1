@@ -65,5 +65,10 @@
 
   - Atributo ***role*** num botão: serve para indicar ao sistema operativo, qual é a real função ou propriedade do botão.
 
-  
+  - ***Font Awesome***: é uma ferramenta *javascript* que permite criar ícones dentro do código html sem a necessidade de guardar as imagens no pasta de imagens. Para utilizar é só efectuar a referência aos mesmos e para deve-se aceder à página web do *font awesome*, cadastrar o e-mail e após o cadastro, será enviado o link em formato ".js" para podermos utilizar os ícones da ferramenta.
+
+  - ***transition***: propriedade ou atributo css que cuida da transição entre uma animação e outra.
+	>
+	>> A declaração é feita da seguinte maneira: **"transition: .3s ease all"**.
+
 	
