@@ -45,5 +45,25 @@
 
 	 - **" body { background: var(--nome_da_variavel); } "**
 
-	
+   - ***main***: é uma tag onde se lança o conteúdo principal de uma página. A palavra *"main"* serve para indicar ao sistema operativo de que se trata do conteúdo-chave da página.
+
+   - Dica de como criar um elemento e uma classe rapidamente, utilizando o *"emmet"*, que é um recurso disponibilizado pelo *"vscode"*:
+	>
+	> digitar primeiro o nome do elemento html e a seguir, um ponto e o nome que queremos dar à classe.
+	>> O *"Emmet"* entende a referência e cria o elemento html, dentro da respectiva tag e atribui a respectiva classe. Ex: **"div.nome_classe"**.
+	>
+
+   - Como lançar uma imagem na página, a partir do css?
+
+	> Para a div criada, atribuímos o seguinte css: **" background: url('url da imagem'); "**.
+	>
+
+   - ***linear-gradient***: propriedade css que permite trabalhar com textos que estejam sobre imagens, criando uma camada entre o texto e imagem, consoante as cores escolhidas.
+	>
+	>> A declaração é feita da seguinte maneira: **" linear-gradient( rgba(r,g,b, transparência), rgba(r,g,b, transparência) "percentagem de ocupação da tela pelo *gradient*" ) "**.
+	>
+
+  - Atributo ***role*** num botão: serve para indicar ao sistema operativo, qual é a real função ou propriedade do botão.
+
+  
 	
